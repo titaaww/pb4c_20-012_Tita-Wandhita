@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">modul6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail">detailActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="p1">Sumatra adalah salah satu pulau di Indonesia yang kaya akan keragaman budaya dan kuliner. Berikut adalah beberapa contoh makanan khas daerah Sumatra:\n\n
+
+1. Rendang\n Rendang adalah masakan daging yang dimasak dalam santan dan bumbu rempah-rempah yang kaya. Rendang Sumatra terkenal di seluruh dunia karena cita rasanya yang kaya dan rempah-rempah yang kuat.\n\n
+
+2. Sate Padang\n Sate Padang adalah sate khas Sumatra yang terkenal dengan saus kacang kental dan pedas. Sate Padang biasanya terbuat dari daging sapi, lidah sapi, atau jeroan sapi yang dipanggang dan disajikan dengan kuah khas Padang\n\n
+
+3. Gulai ikan\n Gulai ikan adalah hidangan ikan yang dimasak dalam kuah santan kental dengan campuran bumbu rempah-rempah khas Sumatra. Gulai ikan Sumatra seringkali memiliki rasa pedas dan asam yang khas.\n\n
+
+4. Martabak Manis\n Martabak Manis adalah makanan penutup yang populer di Sumatra. Ini adalah pancake tebal yang diisi dengan campuran cokelat, keju, kacang, dan gula. Martabak Manis biasanya disajikan dengan topping kacang, keju parut, dan margarin.\n\n
+
+5. Mie Aceh\n Mie Aceh adalah hidangan mie khas Sumatra yang terkenal dengan kuah pedas dan berbumbu. Mie Aceh biasanya disajikan dengan irisan daging sapi, kerang, dan sayuran seperti kubis dan taoge.\n\n
+
+6. Sambalado\n Sambalado adalah sambal khas Sumatra yang terbuat dari cabai merah, tomat, bawang merah, bawang putih, dan rempah-rempah lainnya. Sambalado memiliki rasa pedas yang kuat dan seringkali digunakan sebagai pelengkap makanan.\n\n
+
+7. Gulai daun singkong\n Gulai daun singkong adalah hidangan yang terbuat dari daun singkong yang dimasak dalam kuah santan dan rempah-rempah khas Sumatra. Biasanya disajikan dengan nasi dan hidangan daging.\n\n
+
+Itu hanya beberapa contoh makanan khas Sumatra. Pulau ini memiliki banyak lagi hidangan tradisional yang lezat dan beragam, dengan variasi kuliner yang tergantung pada daerah masing-masing.\n\n\n</string>
+    <string name="title_activity_isi">isi</string>
+</resources>

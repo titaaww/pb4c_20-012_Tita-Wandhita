@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentModul4TP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">User</string>
+    <string name="tab_text_2">Dashboard</string>
+    <string name="tab_text_3">Profil</string>
+    <string name="des_bafomet">Tita Wandhita adalah seorang mahasiswi prodi sistem informasi Universitas Trunojoyo Madura yang saat ini sedang menempuh semester 6 </string>
+</resources>
